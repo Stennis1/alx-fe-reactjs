@@ -1,8 +1,8 @@
 function WelcomeMessage() {
     return (
         <div>
-            <h1>Hello everyone, I am learning React at ALX!</h1>
-            <p>I am learning about JSX!</p>
+            <h1 style={{ fontWeight: "bold"}}>Hello everyone, I am learning React at ALX!</h1>
+            <p style={{ fontFamily: 'cursive', color: 'white'}}>I am learning about JSX!</p>
         </div>
     );
 }
