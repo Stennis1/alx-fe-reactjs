@@ -1,6 +1,6 @@
 function Footer() {
     return (
-        <footer>
+        <footer style={{ textAlign: 'center', marginTop: '20px' }}>
             <p>© 2023 City Lovers</p>
         </footer>
     );
