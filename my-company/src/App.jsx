@@ -1,11 +1,11 @@
 import './App.css'
 import { BrowserRouter as Router, Routes, Route} from "react-router-dom"
 import Navbar from './components/Navbar'
-import Home from './Home'
-import About from './About'
-import Services from './Services'
-import Contact from './Contact'
-import Footer from './Footer'
+import Home from './components/Home'
+import About from './components/About'
+import Services from './components/Services'
+import Contact from './components/Contact'
+import Footer from './components/Footer'
 
 function App() {
 
