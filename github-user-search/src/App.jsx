@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div>
-      <h1 style={{ textAlign:'center' }}>GitHub User Activity</h1>
+      <h1 style={{ textAlign:'center', color:"white" }}>GitHub User Activity</h1>
     <Search />
     </div>
   )
